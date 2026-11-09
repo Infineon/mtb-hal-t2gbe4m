@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['base_0',['base',['../group__group__hal__impl__hw__types.html#a4e1bc35dfc4487cad522db0255471d4a',1,'mtb_hal_dma_t::base'],['../structmtb__hal__i2c__t.html#ab5e6d79f4e33e1fd9b20adc47b097e23',1,'mtb_hal_i2c_t::base'],['../structmtb__hal__i2c__configurator__t.html#a452ed229fe54d0a9dd2d23d3fb67f77c',1,'mtb_hal_i2c_configurator_t::base'],['../structmtb__hal__pwm__configurator__t.html#aa66b70c14bb6280296f00d3591013256',1,'mtb_hal_pwm_configurator_t::base'],['../structmtb__hal__spi__t.html#a8a3880c73ae2ee28830f9baa8b5f9d64',1,'mtb_hal_spi_t::base'],['../structmtb__hal__spi__configurator__t.html#accfd9fe6f5f2eb7b43b368151555204d',1,'mtb_hal_spi_configurator_t::base'],['../structmtb__hal__tcpwm__t.html#a57181b12f869b42c873ba1cd371e42a4',1,'mtb_hal_tcpwm_t::base'],['../group__group__hal__availability.html#a9c3a3780cd9808716f77a1dc7754c3bd',1,'mtb_hal_trng_t::base'],['../structmtb__hal__uart__t.html#a894a064d2fe11b234bf7811f8238c60c',1,'mtb_hal_uart_t::base'],['../structmtb__hal__uart__configurator__t.html#a774938e844557ce8c0a0597defc31091',1,'mtb_hal_uart_configurator_t::base']]],
+  ['blank_20check_1',['Blank check',['../group__group__hal__impl__nvm.html#group_hal_impl_nvm_is_blank',1,'']]],
+  ['block_20data_2',['Snippet 5: SPI Target - Write Block Data',['../group__group__hal__spi.html#subsection_spi_snippet_5',1,'']]],
+  ['block_20data_20transfer_3',['Snippet 4: SPI Block Data transfer',['../group__group__hal__spi.html#subsection_spi_snippet_4',1,'']]],
+  ['block_5fsize_4',['block_size',['../group__group__hal__nvm.html#a8e2cdda5dd52a7ca948f0201b015ace7',1,'mtb_hal_nvm_region_info_t']]],
+  ['blocking_20nvm_20erase_20write_20and_20read_5',['Snippet 2: Blocking NVM Erase-Write and Read',['../group__group__hal__nvm.html#subsection_nvm_use_case_2',1,'']]],
+  ['blocking_20nvm_20erase_20write_20and_20read_6',['Snippet 3: Non-blocking NVM Erase-Write and Read',['../group__group__hal__nvm.html#subsection_nvm_use_case_3',1,'']]],
+  ['byte_20transfer_20operation_20read_20and_20write_7',['byte transfer operation Read and Write',['../group__group__hal__spi.html#subsection_spi_snippet_2',1,'Snippet 2: SPI controller - Single byte transfer operation (Read and Write)'],['../group__group__hal__spi.html#subsection_spi_snippet_3',1,'Snippet 3: SPI Target - Single byte transfer operation (Read and Write)']]],
+  ['byte_5fcallback_5fdata_8',['byte_callback_data',['../structmtb__hal__i2c__t.html#aca1ad41afadc61b222f62d245a1326b0',1,'mtb_hal_i2c_t']]]
+];

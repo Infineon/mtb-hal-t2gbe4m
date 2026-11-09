@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['i2c_20initialization_20and_20configuration_0',['Snippet 1: I2C Initialization and Configuration',['../group__group__hal__i2c.html#subsection_i2c_snippet_1',1,'']]],
+  ['in_20a_20callback_20function_1',['Snippet 2: Handling an event in a callback function',['../group__group__hal__timer.html#subsection_timer_snippet_2',1,'']]],
+  ['in_20gpio_20mode_2',['SPI controller SS pin configured in GPIO mode',['../group__group__hal__impl__spi.html#section_hal_impl_spi_controller_ss',1,'']]],
+  ['information_3',['Information',['../group__group__hal__i2c.html#subsection_i2c_moreinformation',1,'More Information'],['../group__group__hal__spi.html#subsection_spi_moreinfor',1,'More Information']]],
+  ['information_4',['More information',['../index.html#autotoc_md11',1,'']]],
+  ['initialization_5',['Snippet 1: Initialization',['../group__group__hal__uart.html#subsection_uart_snippet_1',1,'']]],
+  ['initialization_6',['Snippet 1: SPI controller or target initialization',['../group__group__hal__spi.html#subsection_spi_snippet_1',1,'']]],
+  ['initialization_20and_20configuration_7',['Snippet 1: I2C Initialization and Configuration',['../group__group__hal__i2c.html#subsection_i2c_snippet_1',1,'']]],
+  ['initialization_20and_20output_20to_20pin_8',['Snippet 1: Simple PWM initialization and output to pin',['../group__group__hal__pwm.html#subsection_pwm_snippet_1',1,'']]],
+  ['initialization_20and_20reading_20conversion_20result_9',['Snippet 1: Simple ADC initialization and reading conversion result',['../group__group__hal__adc.html#subsection_adc_snippet_1',1,'']]],
+  ['initialization_20and_20transfer_10',['Snippet 1: Simple DMA initialization and transfer',['../group__group__hal__dma.html#subsection_dma_snippet_1',1,'']]],
+  ['initialization_20sequence_11',['Initialization Sequence',['../index.html#autotoc_md3',1,'']]],
+  ['initialization_20set_20to_20start_20a_20fresh_20conversion_20and_20read_20the_20latest_20result_12',['Snippet 2: Single-channel ADC initialization set to start a fresh conversion and read the latest result.',['../group__group__hal__adc.html#subsection_adc_snippet_2',1,'']]],
+  ['initialization_20with_20default_20configuration_13',['Snippet 1: LPTimer initialization with Default configuration',['../group__group__hal__lptimer.html#subsection_lptimer_snippet_1',1,'']]],
+  ['initialize_20rtc_20write_20and_20read_20current_20time_20and_20date_14',['Snippet 1: Initialize RTC, write and read current time and date',['../group__group__hal__rtc.html#subsection_rtc_snippet_1',1,'']]],
+  ['integration_15',['RTOS Integration',['../index.html#autotoc_md9',1,'']]],
+  ['interrupt_20handling_16',['Interrupt Handling',['../index.html#autotoc_md4',1,'']]],
+  ['interrupts_17',['Snippet 2: LPTimer interrupts',['../group__group__hal__lptimer.html#subsection_lptimer_snippet_2',1,'']]],
+  ['interrupts_20and_20callbacks_18',['Interrupts and callbacks',['../group__group__hal__uart.html#subsection_uart_interrupts',1,'']]],
+  ['interrupts_20and_20triggering_20dma_20transfers_19',['Snippet 2: Interrupts and triggering DMA transfers',['../group__group__hal__dma.html#subsection_dma_snippet_2',1,'']]],
+  ['interrupts_20on_20gpio_20events_20',['Snippet 4: Interrupts on GPIO events',['../group__group__hal__gpio.html#subsection_gpio_snippet_4',1,'']]],
+  ['interrupts_20on_20spi_20events_21',['Snippet 6: Interrupts on SPI events',['../group__group__hal__spi.html#subsection_spi_snippet_6',1,'']]],
+  ['interrupts_20on_20uart_20events_22',['Snippet 2: Interrupts on UART events',['../group__group__hal__uart.html#subsection_uart_snippet_2',1,'']]]
+];
